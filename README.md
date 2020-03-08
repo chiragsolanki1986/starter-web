@@ -12,3 +12,7 @@ Sample website with plenty of files for demos
 
 ## Purpose
 simple repo for learning git
+
+Added some change for diff comparison
+
+adding some changes which are still in local working directory
