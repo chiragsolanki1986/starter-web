@@ -11,3 +11,4 @@ Sample website with plenty of files for demos
 ## How to contribute
 
 ## Purpose
+simple repo for learning git
